@@ -6,8 +6,6 @@ gem 'rails', '3.2.9'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'mysql2'
-gem 'unicorn'
-
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -31,7 +29,7 @@ gem 'activeadmin'
 # gem 'jbuilder'
 
 # Use unicorn as the app server
-# gem 'unicorn'
+gem 'unicorn'
 
 # Deploy with Capistrano
 # gem 'capistrano'
