@@ -30,6 +30,7 @@ gem 'activeadmin'
 
 # Use unicorn as the app server
 gem 'unicorn'
+gem 'devise'
 
 # Deploy with Capistrano
 # gem 'capistrano'
